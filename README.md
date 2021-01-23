@@ -1,6 +1,7 @@
 # Jithin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+![Build and deploy Node.js app to Azure Web App - ngtp](https://github.com/jithin03/angular-app/workflows/Build%20and%20deploy%20Node.js%20app%20to%20Azure%20Web%20App%20-%20ngtp/badge.svg)
 
 ## Development server
 
